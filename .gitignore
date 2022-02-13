@@ -1,0 +1,15 @@
+*.pyc
+docker-compose.yml
+docker-entrypoint.sh
+Dockerfile
+wait-for-it.sh
+.pytest_cache
+.vscode
+migrations/
+images/
+/static/
+prod.py
+dev.py
+my-env/
+general.log
+
