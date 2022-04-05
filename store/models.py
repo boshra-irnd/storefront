@@ -147,16 +147,3 @@ class Review(models.Model):
     name = models.CharField(max_length=255)
     description = models.TextField()
     date = models.DateField(auto_now_add=True)
-*.pyc
-docker-compose.yml
-docker-entrypoint.sh
-Dockerfile
-wait-for-it.sh
-.pytest_cache
-.vscode
-migrations/
-images/
-/static/
-prod.py
-dev.py
-my-env/

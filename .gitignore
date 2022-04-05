@@ -12,4 +12,5 @@ prod.py
 dev.py
 my-env/
 general.log
+venv/
 
