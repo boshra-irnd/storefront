@@ -18,7 +18,7 @@ Storefront is a RESTful Store  to learn and practice Django and Django Rest Fram
 
 ## Technologies used
 - [Python 3.9](https://www.python.org/) - Programming Language
-- [Django](https://docs.djangoproject.com/en/3.2/releases/3.2/) - Web Framework
+- [Django](https://docs.djangoproject.com/en/4.0/releases/4.0/) - Web Framework
 - [Django Rest Framework](https://www.django-rest-framework.org/) - For Building RESTful APIs
 - [Pytest](https://docs.pytest.org/en/7.0.x/) - Automated Testing
 - [Docker](https://www.docker.com/) - Container Platform
