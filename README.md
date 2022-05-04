@@ -1,8 +1,6 @@
 # storefront
 Storefront is a RESTful Store  to learn and practice Django and Django Rest Framework.
 
-## project url:
-[https://createlink2.in/store/](https://createlink2.in/store/)
 
 ## Features
 - Authentication with email using JWT
